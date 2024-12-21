@@ -56,7 +56,7 @@ nav a:hover {
 .jumbotron {
     color: #FAEEE7;
     min-height: 350px;
-    background-image: url("https://raw.githubusercontent.com/syahalibu/Web-Speeda/master/assets/image/Judul-Sepeda.jpg");
+    background-image: url('../assets/image/Judul-sepeda.jpg');
     background-size: cover;
     background-position-y: 380px;
     padding: 50px;
